@@ -1,2 +1,2 @@
-# JavaScript-Slot-Machine
+# Slot-Machine
 just a cmd slot machine with javascript
